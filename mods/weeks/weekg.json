@@ -1,32 +1,32 @@
 {
-	"songs": [
-		[
-			"Greppy",
-			"dad",
-			[
-				146,
-				113,
-				253
-			]
-		]
-	],
-	"hiddenUntilUnlocked": false,
-	"hideFreeplay": false,
-	"weekBackground": "stage",
-	"difficulties": "",
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
 	"storyName": "Grepyey",
-	"weekName": "Custom Week",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "Lagax",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"startUnlocked": true,
 	"hideStoryMode": false,
-	"weekBefore": "tutorial",
-	"startUnlocked": true
+	"songs": [
+		[
+			"Greppy",
+			"icon-lax",
+			[
+				20,
+				0,
+				53
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
 }

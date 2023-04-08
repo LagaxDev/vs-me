@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Lagax Idle"
+		},
+		{
+			"offsets": [
+				3,
+				-24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Lagax singdown"
+		},
+		{
+			"offsets": [
+				0,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Lagax singup"
+		},
+		{
+			"offsets": [
+				-21,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Lagax singright"
+		},
+		{
+			"offsets": [
+				13,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Lagax singleft"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Lagax",
+	"position": [
+		190,
+		220
+	],
+	"healthicon": "icon-lax",
+	"flip_x": false,
+	"healthbar_colors": [
+		9,
+		6,
+		28
+	],
+	"camera_position": [
+		-20,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 2.1
+}

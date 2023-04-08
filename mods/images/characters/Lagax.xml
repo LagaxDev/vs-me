@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TextureAtlas imagePath="Lagax.png">
-<SubTexture name="Lagax Lagax idle0000" x="0" y="38" width="30" height="34" frameX="-16" frameY="-19" frameWidth="64" frameHeight="64" />
-<SubTexture name="Lagax Lagax idle0001" x="30" y="38" width="30" height="34" frameX="-16" frameY="-19" frameWidth="64" frameHeight="64" />
-<SubTexture name="Lagax Lagax idle0002" x="60" y="38" width="30" height="34" frameX="-16" frameY="-19" frameWidth="64" frameHeight="64" />
-<SubTexture name="Lagax Lagax idle0003" x="90" y="0" width="30" height="34" frameX="-16" frameY="-19" frameWidth="64" frameHeight="64" />
-<SubTexture name="Lagax Lagax idle0004" x="90" y="34" width="30" height="34" frameX="-16" frameY="-19" frameWidth="64" frameHeight="64" />
-<SubTexture name="Lagax Lagax singleft0000" x="0" y="72" width="30" height="34" frameX="-15" frameY="-19" frameWidth="64" frameHeight="64" />
-<SubTexture name="Lagax Lagax singleft0001" x="30" y="72" width="30" height="34" frameX="-14" frameY="-19" frameWidth="64" frameHeight="64" />
-<SubTexture name="Lagax Lagax singdown0000" x="60" y="72" width="30" height="34" frameX="-15" frameY="-20" frameWidth="64" frameHeight="64" />
-<SubTexture name="Lagax Lagax singdown0001" x="60" y="72" width="30" height="34" frameX="-15" frameY="-21" frameWidth="64" frameHeight="64" />
-<SubTexture name="Lagax Lagax sing up0000" x="0" y="0" width="30" height="38" frameX="-15" frameY="-15" frameWidth="64" frameHeight="64" />
-<SubTexture name="Lagax Lagax sing up0001" x="30" y="0" width="30" height="38" frameX="-15" frameY="-15" frameWidth="64" frameHeight="64" />
-<SubTexture name="Lagax Lagax singright0000" x="60" y="0" width="30" height="38" frameX="-15" frameY="-15" frameWidth="64" frameHeight="64" />
+<SubTexture name="Lagax Idle0000" x="0" y="114" width="90" height="102" frameX="-48" frameY="-57" frameWidth="192" frameHeight="192" />
+<SubTexture name="Lagax Idle0001" x="90" y="114" width="90" height="102" frameX="-48" frameY="-57" frameWidth="192" frameHeight="192" />
+<SubTexture name="Lagax Idle0002" x="180" y="114" width="90" height="102" frameX="-48" frameY="-57" frameWidth="192" frameHeight="192" />
+<SubTexture name="Lagax Idle0003" x="270" y="0" width="90" height="102" frameX="-48" frameY="-57" frameWidth="192" frameHeight="192" />
+<SubTexture name="Lagax Idle0004" x="270" y="102" width="90" height="102" frameX="-48" frameY="-57" frameWidth="192" frameHeight="192" />
+<SubTexture name="Lagax singdown0000" x="0" y="216" width="90" height="102" frameX="-45" frameY="-60" frameWidth="192" frameHeight="192" />
+<SubTexture name="Lagax singdown0001" x="0" y="216" width="90" height="102" frameX="-45" frameY="-63" frameWidth="192" frameHeight="192" />
+<SubTexture name="Lagax singleft0000" x="90" y="216" width="90" height="102" frameX="-45" frameY="-57" frameWidth="192" frameHeight="192" />
+<SubTexture name="Lagax singleft0001" x="180" y="216" width="90" height="102" frameX="-42" frameY="-57" frameWidth="192" frameHeight="192" />
+<SubTexture name="Lagax singup0000" x="0" y="0" width="90" height="114" frameX="-45" frameY="-45" frameWidth="192" frameHeight="192" />
+<SubTexture name="Lagax singup0001" x="90" y="0" width="90" height="114" frameX="-45" frameY="-45" frameWidth="192" frameHeight="192" />
+<SubTexture name="Lagax singright0000" x="180" y="0" width="90" height="114" frameX="-45" frameY="-45" frameWidth="192" frameHeight="192" />
 </TextureAtlas>
