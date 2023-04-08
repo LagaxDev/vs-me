@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lagax",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "-hola-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "HAAAAAAAA!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lagax",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "NO te preocupes no muerdo"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lagax",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Por que acabo de comer XD"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "que susto me diste we"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hagamos una batalla "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lagax",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok"
+		}
+	]
+}

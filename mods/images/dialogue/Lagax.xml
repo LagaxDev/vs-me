@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Lagax.png">
+<SubTexture name="Lagax Lagax hablando0000" x="0" y="0" width="270" height="342" frameX="-45" frameY="-45" frameWidth="192" frameHeight="192" />
+<SubTexture name="Lagax Lagax hablando0001" x="90" y="0" width="270" height="342" frameX="-45" frameY="-45" frameWidth="192" frameHeight="192" />
+</TextureAtlas>
