@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Nono.png">
+<SubTexture name="Nono Idle0000" x="24" y="0" width="24" height="30" frameX="-6" frameY="-2" frameWidth="32" frameHeight="32" />
+<SubTexture name="Nono Idle0001" x="74" y="30" width="24" height="29" frameX="-6" frameY="-3" frameWidth="32" frameHeight="32" />
+<SubTexture name="Nono Idle0002" x="0" y="61" width="24" height="28" frameX="-6" frameY="-4" frameWidth="32" frameHeight="32" />
+<SubTexture name="Nono singDown0000" x="24" y="61" width="24" height="22" frameX="-6" frameY="-10" frameWidth="32" frameHeight="32" />
+<SubTexture name="Nono singDown0001" x="48" y="61" width="24" height="22" frameX="-6" frameY="-10" frameWidth="32" frameHeight="32" />
+<SubTexture name="Nono singDown0002" x="72" y="61" width="24" height="21" frameX="-6" frameY="-11" frameWidth="32" frameHeight="32" />
+<SubTexture name="Nono singLeft0000" x="48" y="0" width="26" height="30" frameX="-4" frameY="-2" frameWidth="32" frameHeight="32" />
+<SubTexture name="Nono singLeft0001" x="0" y="31" width="27" height="30" frameX="-3" frameY="-2" frameWidth="32" frameHeight="32" />
+<SubTexture name="Nono singright0000" x="27" y="31" width="24" height="30" frameX="-6" frameY="-2" frameWidth="32" frameHeight="32" />
+<SubTexture name="Nono singUp0000" x="74" y="0" width="24" height="30" frameX="-6" frameY="-2" frameWidth="32" frameHeight="32" />
+<SubTexture name="Nono singUp0001" x="0" y="0" width="24" height="31" frameX="-6" frameY="-1" frameWidth="32" frameHeight="32" />
+</TextureAtlas>
