@@ -7,6 +7,11 @@ Dyl::dylan::Secondary Art & Animation\nMinus Garcello::https://cdn.discordapp.co
 SPECIAL THANKS
 Nicky::nicky::Extra Charting::https://twitter.com/Queen_Vee7::FF62AE
 
-Ext developers
+Mod team
 Lagax::zorro::no description::https://www.youtube.com/@Matias-gg5dn::b92b27
-MC::lagaxdeveloper::XD::https://www.youtube.com/@Matias-gg5dn::b92b27
+MC::lagaxdeveloper::XD::Alcivar::https://www.youtube.com/@Matias-gg5dn::b92b27
+
+Programs
+LMMS::Lmms::Editor de musica y Greppy::https://lmms.io/download::2DB955
+Audacity::audacity::Editor de efectos y para la voces::https://www.audacityteam.org/download/::DEB70A
+FLstudio::Flstudio::Escala cromatica para las voces::https://www.image-line.com/fl-studio-download/::DE670A
